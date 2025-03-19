@@ -18,7 +18,8 @@ if (app.Environment.IsDevelopment())
 //Probando si se puede subir commit...
 //Probando tambien 
 //alitas de barbacoa
-//Martes de imsomnio???
+//probando otra vez
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
