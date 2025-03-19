@@ -16,6 +16,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 //Probando si se puede subir commit...
+//Probando tambien 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
