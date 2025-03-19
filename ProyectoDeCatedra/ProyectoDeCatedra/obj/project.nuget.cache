@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFKaDS3j1aE=",
+  "dgSpecHash": "ghvNeA8quHw=",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Alondra\\Desktop\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj",
+  "projectFilePath": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alondra\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Alondra\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

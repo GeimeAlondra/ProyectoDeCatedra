@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Usuarios\\Alondra\\Desktop\\ProyectoDeCatedra\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581185C6-8E6F-45B6-8D06-E930C7B49E81}|ProyectoDeCatedra\\ProyectoDeCatedra.csproj|d:\\usuarios\\alondra\\documents\\unab\\ciclo v -2025 - unab\\spg3-25\\proyectodecatedra\\proyectodecatedra\\proyectodecatedra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581185C6-8E6F-45B6-8D06-E930C7B49E81}|ProyectoDeCatedra\\ProyectoDeCatedra.csproj|solutionrelative:proyectodecatedra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581185C6-8E6F-45B6-8D06-E930C7B49E81}|ProyectoDeCatedra\\ProyectoDeCatedra.csproj|d:\\usuarios\\alondra\\documents\\unab\\ciclo v -2025 - unab\\spg3-25\\proyectodecatedra\\proyectodecatedra\\proyectodecatedra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{581185C6-8E6F-45B6-8D06-E930C7B49E81}|ProyectoDeCatedra\\ProyectoDeCatedra.csproj|solutionrelative:proyectodecatedra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoDeCatedra\\appsettings.json",
+              "ToolTip": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\appsettings.json",
+              "RelativeToolTip": "ProyectoDeCatedra\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T04:34:57.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoDeCatedra\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\Program.cs",
+              "RelativeToolTip": "ProyectoDeCatedra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:34:46.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

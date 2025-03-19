@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Alondra\\Desktop\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj": {}
+    "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Alondra\\Desktop\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj": {
+    "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Alondra\\Desktop\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj",
         "projectName": "ProyectoDeCatedra",
-        "projectPath": "D:\\Usuarios\\Alondra\\Desktop\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj",
+        "projectPath": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra.csproj",
         "packagesPath": "C:\\Users\\Alondra\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Alondra\\Desktop\\ProyectoDeCatedra\\ProyectoDeCatedra\\obj\\",
+        "outputPath": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\ProyectoDeCatedra\\ProyectoDeCatedra\\ProyectoDeCatedra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
