@@ -17,9 +17,7 @@ if (app.Environment.IsDevelopment())
 }
 //Probando si se puede subir commit...
 //Probando tambien 
-//Eli, probando sonido 123...
 //alitas de barbacoa
-//22:54 -> ¿tienes hambre como yo?
 //Martes de imsomnio?
 app.UseHttpsRedirection();
 
