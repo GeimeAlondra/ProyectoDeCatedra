@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDeCatedra", "ProyectoDeCatedra\ProyectoDeCatedra.csproj", "{581185C6-8E6F-45B6-8D06-E930C7B49E81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDeCatedra", "ProyectoDeCatedra\ProyectoDeCatedra.csproj", "{19D6C7FC-DE83-4F0D-9F33-08352ED988BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{581185C6-8E6F-45B6-8D06-E930C7B49E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{581185C6-8E6F-45B6-8D06-E930C7B49E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{581185C6-8E6F-45B6-8D06-E930C7B49E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{581185C6-8E6F-45B6-8D06-E930C7B49E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D6C7FC-DE83-4F0D-9F33-08352ED988BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D6C7FC-DE83-4F0D-9F33-08352ED988BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D6C7FC-DE83-4F0D-9F33-08352ED988BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D6C7FC-DE83-4F0D-9F33-08352ED988BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {147BFB9B-EA0E-4628-A00C-A4AC9A560C51}
+		SolutionGuid = {5116294F-3463-42AA-8697-C5F8303C5AC5}
 	EndGlobalSection
 EndGlobal

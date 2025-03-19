@@ -15,10 +15,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-//Probando si se puede subir commit...
-//Probando tambien 
-//alitas de barbacoa
-//probando otra vez
 
 app.UseHttpsRedirection();
 
