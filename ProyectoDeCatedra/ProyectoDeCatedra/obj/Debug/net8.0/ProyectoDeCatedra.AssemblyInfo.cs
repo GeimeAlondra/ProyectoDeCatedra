@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoDeCatedra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+152c99e78df6278b95e4a5d455ec8481ce00fd36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04effb1f35a7160c4de23c2223475c3f78ea88e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoDeCatedra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoDeCatedra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
